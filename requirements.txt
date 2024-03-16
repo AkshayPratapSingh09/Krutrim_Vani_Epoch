@@ -1,0 +1,8 @@
+# streamlit 
+librosa 
+soundfile
+googletrans==3.1.0a0
+gTTS
+streamlit
+transformers
+fastapi
